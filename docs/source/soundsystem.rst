@@ -22,4 +22,4 @@
    * RX系列
 * Marantz
    * PM系列
-* O
+* Onkyo
