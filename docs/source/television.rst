@@ -4,6 +4,22 @@
 電視機
 ======
 
+-----------------
+TV(單向紅外線控制)
+-----------------
+* BenQ
+* Chimei
+* SONY
+* Samsung
+* Sharp
+* Sampo
+* LG
+* Panosnic
+* Philips
+* Toshiba
+* JVC
+* TCL
+
 ------------------
 Android TV (HomeX)
 ------------------
