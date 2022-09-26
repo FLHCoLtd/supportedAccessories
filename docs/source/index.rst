@@ -22,6 +22,7 @@
    light
    fan
    soundsystem
+   robotvacuum
    infraredcontrol
 
 
