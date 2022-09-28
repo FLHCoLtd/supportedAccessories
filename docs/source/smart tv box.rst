@@ -1,1 +1,1 @@
-.. _smart tv box
+.. _SmarttvBox:
