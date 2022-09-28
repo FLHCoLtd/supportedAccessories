@@ -25,7 +25,7 @@
    robotvacuum
    light
    fan
-   infraredcontrol
+   
  
 Indices and tables
 ==================
