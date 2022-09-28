@@ -16,6 +16,7 @@
    television
    smart tv box
    soundsystem
+   Blu ray player
    projector
    curtain
    doorlock
