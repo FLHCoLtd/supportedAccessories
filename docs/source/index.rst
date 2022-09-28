@@ -11,21 +11,21 @@
    :caption: Contents:
 
    airconditioner
+   hrv
    dehumidifier
    television
-   floorheating
-   hrv
+   smart tv box
+   soundsystem
    projector
    curtain
-   camera
    doorlock
+   camera
+   floorheating
+   robotvacuum
    light
    fan
-   soundsystem
-   robotvacuum
    infraredcontrol
-
-
+ 
 Indices and tables
 ==================
 
