@@ -30,7 +30,7 @@
    * VRV系列 (須加購原廠Modbus ID控制板)
    
 * 台灣日立 HITACHI
-   *VRV系列 (需符合TaiSEIA 控制規格)
+   * VRV系列 (需符合TaiSEIA 控制規格)
       * RA 系列冷氣機 合格商品_
       * RAS 系列冷氣機 合格商品_
       * RAD 系列冷氣機 合格商品_
