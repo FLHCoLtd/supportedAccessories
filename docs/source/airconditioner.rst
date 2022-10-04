@@ -4,32 +4,45 @@
 冷氣機
 ======
 
----------------
-大金冷氣 DAIKIN
----------------
-* VRV-Modbus 控制規格 (HomeX)
+-------------
+紅外線單向控制
+-------------
 
-----------------
-台灣日立 HITACHI
-----------------
-* TaiSEIA 控制規格 (HomeX)
-   * RA 系列冷氣機 合格商品_
-   * RAS 系列冷氣機 合格商品_
-   * RAD 系列冷氣機 合格商品_
-   * CRS 系列冷氣機 合格商品_
+* 大金冷氣 DAIKIN
 
-------------------
-台灣松下 Panasonic
-------------------
-* TaiSEIA 控制規格 (HomeX)
-   * CS-QX 系列冷氣機 合格商品_
-   * CS-PX 系列冷氣機 合格商品_
+* 台灣日立 HITACHI
 
-------
-Others
-------
-* 它牌支援 TaiSEIA 控制規格冷氣品牌 (HomeX) 合格商品_
-* 具備原廠紅外線遙控器設備之它牌冷氣設備
+* 台灣松下 Panasonic
+
+* 台灣三菱 Mitsubishi
+
+* 台灣三洋 Sanlux
+
+* Other
+
+   *具備原廠紅外線遙控器設備之它牌冷氣設備
+
+-----------------------
+雙向控制 Modbus 控制規格
+-----------------------
+
+* 大金冷氣 DAIKIN
+   * VRV系列 (須加購原廠Modbus ID控制板)
+   
+* 台灣日立 HITACHI
+   *VRV系列 (需符合TaiSEIA 控制規格)
+      * RA 系列冷氣機 合格商品_
+      * RAS 系列冷氣機 合格商品_
+      * RAD 系列冷氣機 合格商品_
+      * CRS 系列冷氣機 合格商品_
+      
+* 台灣松下 Panasonic
+   * VRV系列 (需符合TaiSEIA 控制規格)
+      * CS-QX 系列冷氣機 合格商品_
+      * CS-PX 系列冷氣機 合格商品_
+* Other
+   * (需符合TaiSEIA 控制規格)
+
 
 .. _合格商品: https://github.com/FLHCoLtd/supportedAccessories/raw/3ae976678fe290435b93c19d9d3efc1731920728/assets/taiseia_cert-2021-05-04.pdf
 
