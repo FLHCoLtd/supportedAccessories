@@ -24,6 +24,7 @@
    floorheating
    robotvacuum
    home appliances
+   
    Advanced function integration
    
  
