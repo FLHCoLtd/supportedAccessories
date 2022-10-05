@@ -23,7 +23,7 @@
    camera
    floorheating
    robotvacuum
-   light
+   home appliances
    Advanced function integration
    
  
