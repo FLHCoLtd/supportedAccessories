@@ -24,7 +24,7 @@
    floorheating
    robotvacuum
    light
-   fan
+   Advanced function integration
    
  
 Indices and tables
