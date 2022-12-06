@@ -24,6 +24,7 @@
    floorheating
    robotvacuum
    home appliances
+   Router
    
    Advanced function integration
    
