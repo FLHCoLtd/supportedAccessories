@@ -8,7 +8,7 @@
 小坪數專區-一台
 --------------
   *  ASUS
-    *  TUF-AX5400
+    - `TUF-AX5400 <https://www.asus.com/tw/networking-iot-servers/wifi-routers/asus-gaming-routers/tuf-gaming-ax5400/>`__
     *  AX86U
     *  AX86S
   *  TP-Link
