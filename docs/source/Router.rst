@@ -9,12 +9,12 @@
 --------------
   *  ASUS
     - `TUF-AX5400 <https://www.asus.com/tw/networking-iot-servers/wifi-routers/asus-gaming-routers/tuf-gaming-ax5400/>`__
-    - `AX86U <https://www.asus.com/tw/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-ax86u/>`__
-    - `AX86S <https://www.asus.com/hk/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-ax86u/>`__
+    - `RT-AX86U <https://www.asus.com/tw/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-ax86u/>`__
+    - `RT-AX86S <https://www.asus.com/hk/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-ax86u/>`__
   *  TP-Link
-    - `AX72 <https://www.tp-link.com/tw/home-networking/wifi-router/archer-ax72/>`__
-    - `AX75 <https://www.tp-link.com/tw/home-networking/wifi-router/archer-ax75/>`__
-    - `AX90 <https://www.tp-link.com/tw/home-networking/wifi-router/archer-ax90/>`__
+    - `Archer AX72 <https://www.tp-link.com/tw/home-networking/wifi-router/archer-ax72/>`__
+    - `Archer AX75 <https://www.tp-link.com/tw/home-networking/wifi-router/archer-ax75/>`__
+    - `Archer AX90 <https://www.tp-link.com/tw/home-networking/wifi-router/archer-ax90/>`__
 
 ------------------
 大坪數專區-兩台以上(含兩台)
