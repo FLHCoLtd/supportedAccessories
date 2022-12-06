@@ -28,7 +28,7 @@
    
 * 台灣日立 HITACHI
 
-   * VRV系列 (需符合TaiSEIA 控制規格)
+   * 需符合TaiSEIA 控制規格
 
       * RA 系列冷氣機 合格商品_
       * RAS 系列冷氣機 合格商品_
@@ -37,14 +37,14 @@
       
 * 台灣松下 Panasonic
 
-   * VRV系列 (需符合TaiSEIA 控制規格)
+   * 需符合TaiSEIA 控制規格
 
       * CS-QX 系列冷氣機 合格商品_
       * CS-PX 系列冷氣機 合格商品_
 
 * Others
 
-   * (需符合TaiSEIA 控制規格)
+   * 需符合TaiSEIA 控制規格
 
 
 .. _合格商品: https://github.com/FLHCoLtd/supportedAccessories/raw/3ae976678fe290435b93c19d9d3efc1731920728/assets/taiseia_cert-2021-05-04.pdf
