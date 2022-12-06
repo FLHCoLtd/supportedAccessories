@@ -26,7 +26,7 @@
    * EML-1093
    * 15W-3000K RA790
 
-* SINDIR
+* SINDIR 
 
    * LY-2896-1-2-3-4
    * MR16，變壓器ET-E60
