@@ -35,4 +35,4 @@
 * Others
    需符合TaiSEIA 控制規格之它牌除濕機設備 合格商品_
 
-.. _合格商品: https://github.com/FLHCoLtd/supportedAccessories/raw/3ae976678fe290435b93c19d9d3efc1731920728/assets/taiseia_cert-2021-05-04.pdf
+.. _合格商品: https://github.com/FLHTekLab/supportedAccessories/raw/main/assets/taiseia_cert.pdf
