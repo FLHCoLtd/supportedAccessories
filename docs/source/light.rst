@@ -4,30 +4,8 @@
 調光燈具
 =========
 
-* TAYUN
-
-   * TATK0103B
-   * TATK0094B 
-   * CRI90 30D
-
-* GENUINE NICHIA LED
-
-   * AR111-12W-12 燈3000K-300-W
-   * SD-363-2
-   * SD-338-2B/3000K-DIM
-   * CDA168GDL-1618141-WHT-BHCTF02
-   * BHCTF02
-   * ET-1572U
-   * SD-201-4崁燈
-   * NF503崁燈
-
-* TD1061
-
-   * EML-1093
-   * 15W-3000K RA790
-
-* SINDIR 
-
-   * LY-2896-1-2-3-4
-   * MR16，變壓器ET-E60
-   * 5050 SMD，變壓器KVF-12080-TDW
+* 交流調光
+  *  Triac
+  
+*  直流調光
+  *  24V
