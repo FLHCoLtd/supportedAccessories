@@ -25,7 +25,7 @@
    robotvacuum
    home appliances
    Router
-   
+   light
    Advanced function integration
    
  
