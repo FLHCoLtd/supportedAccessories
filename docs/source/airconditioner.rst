@@ -47,7 +47,7 @@
    * 需符合TaiSEIA 控制規格
 
 
-.. _合格商品: https://github.com/FLHTekLab/supportedAccessories/raw/main/assets/taiseia_cert.pdf
+.. _合格商品: https://github.com/FLHTekLab/supportedAccessories/blob/main/assets/TAisia20230905.pdf
 
 
 
