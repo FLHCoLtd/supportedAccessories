@@ -131,4 +131,9 @@ Motion Blind
 
    * 需搭配原廠USB橋接器
 
-      * 網路控制
+   * 網路控制
+
+---------
+switchbot
+---------
+  - **SwitchBot Curtain**.
