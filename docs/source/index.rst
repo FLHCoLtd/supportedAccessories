@@ -26,6 +26,7 @@
    home appliances
    Router
    light
+   fan
    Advanced function integration
    
  
