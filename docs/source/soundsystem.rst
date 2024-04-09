@@ -44,3 +44,8 @@
 
       * 全系列
 
+* 網路控制設備
+
+  * Bluesound
+
+      * `BLUESOUND NODE <https://www.bluesound.com/products/node/>`_
