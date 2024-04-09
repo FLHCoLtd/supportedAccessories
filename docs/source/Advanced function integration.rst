@@ -18,6 +18,11 @@ Spotify Connect
       * Denon
       * Pioneer
       * Sony
+-----
+KKBOX
+-----
+
+* Bluesound
 
 -----------
 Google行事曆
