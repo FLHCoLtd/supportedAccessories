@@ -20,6 +20,7 @@
    projector
    curtain
    doorlock
+   rollupdoor
    camera
    floorheating
    robotvacuum
